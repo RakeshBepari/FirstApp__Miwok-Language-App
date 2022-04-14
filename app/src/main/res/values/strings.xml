@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Miwok language app</string>
+    <string name="set_app_name">Miwok</string>
+    <string name="numbers">Numbers</string>
+    <string name="family_members">Family Members</string>
+    <string name="colors">Colors</string>
+    <string name="phrases">Phrases</string>
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family">Family</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
